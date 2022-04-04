@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "mongodb": "^4.4.1"
-  }
+  },
+  "name": "learn-crud-mongodb_nodejs",
+  "version": "1.0.0",
+  "main": "aggregation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kittisak2001/Learn-CRUD-MongoDB_NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kittisak2001/Learn-CRUD-MongoDB_NodeJs/issues"
+  },
+  "homepage": "https://github.com/Kittisak2001/Learn-CRUD-MongoDB_NodeJs#readme",
+  "description": ""
 }
